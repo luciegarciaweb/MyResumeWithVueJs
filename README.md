@@ -1,5 +1,7 @@
 # appvue
 
+Creating my own resume in Vue.js
+
 ## Project setup
 ```
 yarn install
