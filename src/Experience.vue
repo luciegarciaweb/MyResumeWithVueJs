@@ -1,6 +1,9 @@
 <template>
-  <div id="experience">
+  <div id="experience" class="container">
     <Experience msg="Expérience"/>
+    <p>
+      <b-btn v-b-toggle.collapse1 variant="warning">Toggle Collapse</b-btn>
+    </p>
   </div>
 </template>
 
