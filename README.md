@@ -1,6 +1,6 @@
 # appvue
 
-Creating my own resume in Vue.js
+Creating my own resume with Vue.js
 
 ## Project setup
 ```
